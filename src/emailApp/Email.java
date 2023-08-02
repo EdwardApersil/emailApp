@@ -38,11 +38,11 @@ public class Email {
         this.lastName = lastName;
 
 
-//        System.out.println("Enter your first name");
-//        firstName = in.next();
-//
-//        System.out.println("Enter your last name");
-//        lastName = in.next();
+        System.out.println("Enter your first name");
+        firstName = in.next();
+
+        System.out.println("Enter your last name");
+        lastName = in.next();
 
 //        System.out.println("Emial Create: " + " firstName " + this.firstName + " lastName " + this.lastName);
         //Call a method asking for the department  = return the department
